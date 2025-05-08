@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-	name: "QRCode",
+	name: "FWQRCode",
 	platforms: [
 		.macOS(.v10_13),
 		.iOS(.v11),
